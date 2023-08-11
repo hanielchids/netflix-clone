@@ -1,5 +1,5 @@
 <center>
 
-NETFLIX CLONE
+NETFLIX CLONE: ReactJS
 
 </center>
